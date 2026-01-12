@@ -132,7 +132,3 @@ When scanning, **Corscan** automatically attempts:
 - **Reverse Headers**: Injects spoofed `X-Forwarded-For` and `X-Real-IP` headers with random IPs.
 
 ---
-
-<p align="center">
-  Made with ❤️ for the Security Community
-</p>
